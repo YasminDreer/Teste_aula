@@ -6,4 +6,5 @@ idade: int = int(input("Qual é a sua idade? "))
 print(f"Tu tens {idade} anos...")
 altura: float = float(input("Qual a sua altura?"))
 print(f"A sua altura é {altura}")
+peso: float = float(input("Qual o seu peso?"))
 
